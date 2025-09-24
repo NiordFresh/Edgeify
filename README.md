@@ -1,16 +1,15 @@
 ![edgeify_github](https://github.com/user-attachments/assets/42b61c66-13b4-402c-87f2-73d73876685f)
 # Edgeify
 
-Edgeify removes Microsoft Edge or keeps it with minimized telemetry for a cleaner, more private Windows.
+Edgeify removes Microsoft Edge for a cleaner, more private Windows.
 
 ---
 
 ## 🎯 Features
 
-- ✅ Remove Microsoft Edge (Chromium & UWP) permanently
-- ✅ Keep Edge — but disable telemetry, startup tasks, background apps etc.
-- ✅ One-click apply — no complex commands, simple as that.
-- ✅ Open-source & transparent — inspect what it does
+- ✅ Remove Microsoft Edge (Chromium & UWP) permanently...
+- ✅ One-click apply — no complex commands, simple as that...
+- ✅ Open-source & transparent — inspect what it does...
 
 ---
 
@@ -18,7 +17,7 @@ Edgeify removes Microsoft Edge or keeps it with minimized telemetry for a cleane
 ```
 - Windows 7+ (or Vista with Extended Kernel)
 - Administrator privileges
-- .NET Framework 3.5 or Higher
+- .NET Framework 4.5.2 or Higher
 ```
 ---
 
